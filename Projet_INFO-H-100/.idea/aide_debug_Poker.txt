@@ -1,0 +1,19 @@
+Pour vous aider à débugger votre code, voici ce que l'ordinateur devrait calculer au premier tour (+ inputs) avec un seed = 2732.
+
+Si vous considérez 10-Valet-Dame-Roi-As comme une suite:
+2732
+Voici vos deux premières cartes:   D♣ 10♠
+Voulez-vous miser quelque chose [O/N]? N
+Occurrences =  [('p', 7832), ('dp', 2534), ('b', 730), ('s', 714), ('c', 692), ('f', 244), ('ca', 6), ('sc', 12)]
+Ratio_combi =  [('p', 0.9912430912305614), ('dp', 0.9469109552440707), ('b', 0.9396076816145806), ('s', 1.6331945651676654), ('c', 2.2948862505803542), ('f', 0.9185709445469262), ('ca', 0.352112676056338), ('sc', 4.240282685512367)]
+L'ordinateur a misé 1 sur sc
+
+
+
+Si vous considérez 1-2-3-4-5 comme une suite
+2732
+Voici vos deux premières cartes:   D♣ 10♠
+Voulez-vous miser quelque chose [O/N]? N
+Occurrences =  [('p', 7832), ('dp', 2534), ('b', 730), ('s', 710), ('c', 692), ('f', 244), ('ca', 6), ('sc', 12)]
+Ratio_combi =  [('p', 0.9912430912305614), ('dp', 0.9469109552440707), ('b', 0.9396076816145806), ('s', 1.6240450157829722), ('c', 2.2948862505803542), ('f', 0.9185709445469262), ('ca', 0.352112676056338), ('sc', 4.240282685512367)]
+L'ordinateur a misé 1 sur sc
